@@ -7,4 +7,4 @@ Press  "spacebar" to start
 
 ![](brick.gif)
 
-Click [here](https://brick-game-vanilla-js.pages.dev/) for dmo.
+Click [here](https://brick-game-vanilla-js.pages.dev/) for demo.
